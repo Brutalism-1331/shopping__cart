@@ -11,4 +11,4 @@ Heather Bisgaard - Software Engineer
 
 ## Reflections
 
-- Lab 14. Add later.
+- Lab 14. This has been difficult reviewing someone else' code.
