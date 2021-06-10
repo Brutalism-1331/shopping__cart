@@ -60,8 +60,8 @@ function updateCartPreview() {
   let itemPicked = document.getElementById('items').value;
   let itemQuantity = document.getElementById('quantity').value;
   // TODO: Add a new element to the cartContents div with that information
-  document.getElementById('cartContents').value;
-  textContent
+  let div = document.getElementById('cartContents').value;
+  // div.textContent
 }
 
 // Set up the "submit" event listener on the form.
